@@ -4,7 +4,7 @@ I'm a recent graduate from Imperial College, London's MSc Computing program.
 
 Before that, I completed a Philosophy (BA) at King's College, London.
 
-As that might suggest, I'm a developer with a voracious appetite for learning and extending my horizons. 
+As that might suggest, I'm a developer that loves to keep extending my horizons. 
 
 ### 🧰 Languages and Tools
 
