@@ -23,6 +23,6 @@ a project I've tentatively titled *Slow To Speak*. This is a project I'm buildin
 ### 📫 How to reach me
 - [Twitter](https://twitter.com/barrtholemew) (preferable)
 - [LinkedIn](https://www.linkedin.com/in/barry-quek/)
-- [Email](mailto:ci.barry.quek@gmail.com)
+- Email: ci.barry.quek@gmail.com
 
 
