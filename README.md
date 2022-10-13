@@ -21,6 +21,8 @@ As that might suggest, I'm a developer that loves to keep extending my horizons.
 a project I've tentatively titled *Slow To Speak*. This is a project I'm building from the ground up: writing the spec, wireframing, learning the full-stack, and deployment. Take a look at the repository pinned below for more!
 
 ### 📫 How to reach me
+- [Twitter](https://twitter.com/barrtholemew) (preferable)
 - [LinkedIn](https://www.linkedin.com/in/barry-quek/)
+- [Email](mailto:ci.barry.quek@gmail.com)
 
 
