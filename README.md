@@ -18,10 +18,10 @@ As that might suggest, I'm a developer that loves to keep extending my horizons.
 
 ### 🔭 I’m currently working on 
 
-a project I've tentatively titled *Slow To Speak*. This is a project I'm building from the ground up: writing the spec, wireframing, learning the full-stack, and deployment. Take a look at the repository pinned below for more!
+a project I've tentatively titled *Slow To Speak*. This is a project I'm building from the ground up: writing the spec, wireframing, learning the full-stack, and deployment. To check it out, take a look at the repository pinned below or visit the [gitbook](https://barry-in-his-moms-basement.gitbook.io/slow-to-speak-the-journey/)!
 
 ### 📫 How to reach me
-- [Twitter](https://twitter.com/barrtholemew) (preferable)
+- [Twitter](https://twitter.com/barrtholemew) 
 - [LinkedIn](https://www.linkedin.com/in/barry-quek/)
 - Email: ci.barry.quek@gmail.com
 
