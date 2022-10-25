@@ -4,7 +4,7 @@ I'm a recent graduate from Imperial College, London's MSc Computing program.
 
 Before that, I completed a Philosophy (BA) at King's College, London.
 
-As that might suggest, I'm a developer that loves to keep extending my horizons. 
+As that might suggest, I'm a developer that loves to keep learning. 
 
 ### 🧰 Languages and Tools
 
@@ -16,7 +16,7 @@ As that might suggest, I'm a developer that loves to keep extending my horizons.
 
 ## 🔭 I’m currently working on 
 
-a project I've tentatively titled *Slow To Speak*. (A friend remarked that the name is quite negative, like 'constipation'. Oh well.) This is a project I'm building from the ground up: writing the spec, wireframing, learning the full-stack, and deployment. To check it out, take a look at the repository pinned below or visit the [gitbook](https://barry-in-his-moms-basement.gitbook.io/slow-to-speak-the-journey/) for the ongoing story!
+a project I've tentatively titled *Slow To Speak*. This is a long-term project I'm building from the ground up: writing the spec, wireframing, learning the full-stack, and deployment. To check it out, take a look at the repository pinned below or visit the [gitbook](https://barry-in-his-moms-basement.gitbook.io/slow-to-speak-the-journey/) for the ongoing story!
 
 ## 📫 How to reach me
 - [Twitter](https://twitter.com/barrtholemew) 
