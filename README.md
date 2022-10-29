@@ -16,7 +16,7 @@ As that might suggest, I'm a developer that loves to keep learning.
 
 ## 🔭 I’m currently working on 
 
-a project I've tentatively titled *Slow To Speak*. This is a long-term project I'm building from the ground up: writing the spec, wireframing, learning the full-stack, and deployment. To check it out, take a look at the repository pinned below or visit the [gitbook](https://barry-in-his-moms-basement.gitbook.io/slow-to-speak-the-journey/) for the ongoing story!
+a project I've tentatively titled *Slow To Speak*. This is a long-term project I'm building from the ground up: writing the spec, wireframing, learning the full-stack, and deployment. Take a look at the repository pinned below for the ongoing story!
 
 ## 📫 How to reach me
 - [Twitter](https://twitter.com/barrtholemew) 
