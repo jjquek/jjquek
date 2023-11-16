@@ -2,7 +2,7 @@
 
 I'm a recent graduate from Imperial College, London's MSc Computing program. 
 
-I currently work as an Instructional Associate at [General Assembly](https://generalassemb.ly/).
+I currently work as a backend developer at [Mainnet Digital](https://www.mainnetdigital.com/), a budding web3 startup.
 
 Before my masters, I studied Philosophy (BA) at King's College, London.
 
